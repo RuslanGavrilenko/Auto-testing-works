@@ -1,32 +1,32 @@
 def print_greeting():
-    print("Вывести в  консоль 1")
+    print("1",end="")
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 2" )
+    print("2",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 3" )
+    print("3",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 4" )
+    print("4",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 5" )
+    print("5",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 6" )
+    print("6",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 7" )
+    print("7",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 8" )
+    print("8",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 9" )
+    print("9",end="" )
 print_greeting()
 def print_greeting():
-    print("Вывевсти в консоль 0" )
+    print("0",end="" )
 print_greeting()
 
 # Вызов функуции с числами
