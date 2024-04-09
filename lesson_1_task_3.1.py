@@ -1,2 +1,2 @@
-num = input('Ваше имя: ');
-print('Вы ввели:', num)
+user_name =input("Ваше имя:")
+print( 'Привет', user_name)
