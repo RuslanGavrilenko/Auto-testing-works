@@ -1,3 +1,3 @@
-user_name = input("Ваше имя:" + "Руслан")
-print(user_name)
+user_name =input("Ваше имя:")
+print( 'Привет', user_name)
 
