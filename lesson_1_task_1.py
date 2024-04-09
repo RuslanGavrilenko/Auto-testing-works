@@ -1,4 +1,4 @@
-my_name = "Меня зовут Руслан"
+my_name = "Руслан"
 print(my_name)
 
 
