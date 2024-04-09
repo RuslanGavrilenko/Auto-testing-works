@@ -1,3 +1,4 @@
-last_name = "Гавриленко"
-first_name = "Руслан"
-print("Вас зовут :",last_name, first_name )
+last_name = input('Фамилия')
+first_name = input('Имя')
+print("Вас зовут :")
+print(last_name, first_name )
